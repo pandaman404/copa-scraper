@@ -1,0 +1,110 @@
+{
+  "Group A": [
+    {
+      "name": "Germany",
+      "image": "https://img.uefa.com/imgml/flags/70x70/GER.png"
+    },
+    {
+      "name": "Switzerland",
+      "image": "https://img.uefa.com/imgml/flags/70x70/SUI.png"
+    },
+    {
+      "name": "Hungary",
+      "image": "https://img.uefa.com/imgml/flags/70x70/HUN.png"
+    },
+    {
+      "name": "Scotland",
+      "image": "https://img.uefa.com/imgml/flags/70x70/SCO.png"
+    }
+  ],
+  "Group B": [
+    {
+      "name": "Spain",
+      "image": "https://img.uefa.com/imgml/flags/70x70/ESP.png"
+    },
+    {
+      "name": "Italy",
+      "image": "https://img.uefa.com/imgml/flags/70x70/ITA.png"
+    },
+    {
+      "name": "Croatia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/CRO.png"
+    },
+    {
+      "name": "Albania",
+      "image": "https://img.uefa.com/imgml/flags/70x70/ALB.png"
+    }
+  ],
+  "Group C": [
+    {
+      "name": "England",
+      "image": "https://img.uefa.com/imgml/flags/70x70/ENG.png"
+    },
+    {
+      "name": "Denmark",
+      "image": "https://img.uefa.com/imgml/flags/70x70/DEN.png"
+    },
+    {
+      "name": "Slovenia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/SVN.png"
+    },
+    {
+      "name": "Serbia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/SRB.png"
+    }
+  ],
+  "Group D": [
+    {
+      "name": "Austria",
+      "image": "https://img.uefa.com/imgml/flags/70x70/AUT.png"
+    },
+    {
+      "name": "France",
+      "image": "https://img.uefa.com/imgml/flags/70x70/FRA.png"
+    },
+    {
+      "name": "Netherlands",
+      "image": "https://img.uefa.com/imgml/flags/70x70/NED.png"
+    },
+    {
+      "name": "Poland",
+      "image": "https://img.uefa.com/imgml/flags/70x70/POL.png"
+    }
+  ],
+  "Group E": [
+    {
+      "name": "Romania",
+      "image": "https://img.uefa.com/imgml/flags/70x70/ROU.png"
+    },
+    {
+      "name": "Belgium",
+      "image": "https://img.uefa.com/imgml/flags/70x70/BEL.png"
+    },
+    {
+      "name": "Slovakia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/SVK.png"
+    },
+    {
+      "name": "Ukraine",
+      "image": "https://img.uefa.com/imgml/flags/70x70/UKR.png"
+    }
+  ],
+  "Group F": [
+    {
+      "name": "Portugal",
+      "image": "https://img.uefa.com/imgml/flags/70x70/POR.png"
+    },
+    {
+      "name": "Türkiye",
+      "image": "https://img.uefa.com/imgml/flags/70x70/TUR.png"
+    },
+    {
+      "name": "Georgia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/GEO.png"
+    },
+    {
+      "name": "Czechia",
+      "image": "https://img.uefa.com/imgml/flags/70x70/CZE.png"
+    }
+  ]
+}

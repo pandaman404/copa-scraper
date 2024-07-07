@@ -1,0 +1,20 @@
+{
+  "name": "copa-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scraper": "ts-node-dev src/app.ts"
+  },
+  "keywords": [],
+  "author": "pandaman404",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.45.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.3"
+  }
+}
