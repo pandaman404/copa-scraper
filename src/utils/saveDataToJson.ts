@@ -7,7 +7,7 @@ export async function saveDataToJson(data: unknown, fileName: string) {
     const filePath = path.resolve(__dirname, '..', 'data', fileName);
 
     fs.writeFileSync(filePath, jsonData);
-    console.log(`Datos guardados correctamente en: ${filePath}`);
+    console.info(`Datos guardados correctamente en: ${filePath}`);
   } catch (error) {
     console.error('Error al guardar datos en JSON:', error);
     throw error;

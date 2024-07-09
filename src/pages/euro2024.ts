@@ -6,6 +6,7 @@ const EURO_URL = 'https://www.uefa.com/euro2024/standings';
 
 export async function scrapeEuro(page: Page): Promise<void> {
   try {
+    console.info(`comienza scraping en: ${EURO_URL} `);
     await page.goto(EURO_URL, { waitUntil: 'load', timeout: 0 });
 
     const data = await page.evaluate(() => {
