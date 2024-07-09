@@ -2,12 +2,13 @@ import type { Team, Tournament } from '../@types/tournament';
 import type { Page } from 'playwright';
 import { saveDataToJson } from '../utils/saveDataToJson';
 
-const EURO_URL = 'https://www.uefa.com/euro2024/standings';
+const URL = 'https://www.uefa.com/euro2024/standings';
 
 export async function scrapeEuro(page: Page): Promise<void> {
   try {
-    console.info(`comienza scraping en: ${EURO_URL} `);
-    await page.goto(EURO_URL, { waitUntil: 'load', timeout: 0 });
+    console.info(`comienza scraping en: ${URL} `);
+    await page.goto(URL, { waitUntil: 'load', timeout: 0 });
+    await page.waitForSelector('.GrMEzQSWHPskxEtEN1PP');
 
     const data = await page.evaluate(() => {
       const tournamentData: Tournament = {} as Tournament;

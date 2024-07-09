@@ -1,0 +1,74 @@
+{
+  "Group A": [
+    {
+      "name": "Argentina",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fargentina.png&w=64&q=75"
+    },
+    {
+      "name": "Canada",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fcanada.png&w=64&q=75"
+    },
+    {
+      "name": "Chile",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fchile.png&w=64&q=75"
+    },
+    {
+      "name": "Peru",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fperu.png&w=64&q=75"
+    }
+  ],
+  "Group B": [
+    {
+      "name": "Venezuela",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fvenezuela.png&w=64&q=75"
+    },
+    {
+      "name": "Ecuador",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fequador.png&w=64&q=75"
+    },
+    {
+      "name": "Mexico",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fmexico.png&w=64&q=75"
+    },
+    {
+      "name": "Jamaica",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fjamaica.png&w=64&q=75"
+    }
+  ],
+  "Group C": [
+    {
+      "name": "Uruguay",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Furuguai.png&w=64&q=75"
+    },
+    {
+      "name": "Panama",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fpanama.png&w=64&q=75"
+    },
+    {
+      "name": "United States",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Festados-unidos.png&w=64&q=75"
+    },
+    {
+      "name": "Bolivia",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fbolivia.png&w=64&q=75"
+    }
+  ],
+  "Group D": [
+    {
+      "name": "Colombia",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fcolombia.png&w=64&q=75"
+    },
+    {
+      "name": "Brazil",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fbrasil.png&w=64&q=75"
+    },
+    {
+      "name": "Costa Rica",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fcosta-rica.png&w=64&q=75"
+    },
+    {
+      "name": "Paraguay",
+      "image": "https://copaamerica.com/_next/image?url=%2Fflags%2Fparaguai.png&w=64&q=75"
+    }
+  ]
+}
